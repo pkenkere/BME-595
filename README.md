@@ -1,9 +1,9 @@
 # BME-595
 # Facial Recognition
-This project plans on using neural networks using the Pytorch library to predict a person's gender based on an image of their face.
+This project plans on using neural networks using the Pytorch library to detect a face in an image and then predict the person.
 ## Team members
 Prashast Vaidya, Parth Kenkere
 ##  Goals
-To detect facial features/expressions and help predict sex and other attributes.
+To detect a face in an image and then predict the person. 
 ##  Challenges
 Finding a comprehensive dataset.
